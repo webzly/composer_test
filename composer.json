@@ -1,13 +1,13 @@
 {
-    "name":"jenner/message_queue",
-    "description":"php message queue wrapper",
+    "name":"zly/phpinfo",
+    "description":"phpinfo",
     "license":"MIT",
-    "keywords":["message queue"],
+    "keywords":["phpinfo"],
     "version":"1.0.0",
     "authors":[
-		{
-			"name":"zly",
-            "email":"1366934093@qq.com"
+	{
+		"name":"zly",
+            	"email":"1366934093@qq.com"
         }
     ],
     "require":{
